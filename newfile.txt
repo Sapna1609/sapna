@@ -1,1 +1,4 @@
 This is myfirst repository
+My name is sapna sharma and I am passionate about computer science engineering
+I know about C,C++,python 
+
